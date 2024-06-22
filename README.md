@@ -1,6 +1,8 @@
 # mpk-key-mapper
 Using RobotJS and Node.js turn your Akai MPK Mini into a keyboard controller that maps MIDI inputs directly from the MPK.
 
+(ps. this may not work on windows i made it on a mac HOWEVER it may idk i still have to test but if it does just follow the instrutions below!!!)
+
 ## features
 
 - map MIDI notes from the Akai MPK Mini to keyboard strokes.
@@ -23,6 +25,10 @@ Using RobotJS and Node.js turn your Akai MPK Mini into a keyboard controller tha
 2. Install the dependencies:
     ```sh
     npm install
+    ```
+3. For Windows if not already installed:
+    ```sh
+    npm install --global windows-build-tools
     ```
 
 ## Usage
