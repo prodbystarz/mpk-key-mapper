@@ -26,7 +26,7 @@ Using RobotJS and Node.js turn your Akai MPK Mini into a keyboard controller tha
     ```sh
     npm install
     ```
-3. For Windows if not already installed:
+3. ONLY FOR WINDOWS, only run if not already installed:
     ```sh
     npm install --global windows-build-tools
     ```
